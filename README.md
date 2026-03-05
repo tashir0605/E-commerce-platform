@@ -84,7 +84,3 @@ npm run dev
 * **Case Sensitivity**: Optimized for Linux-based CI/CD (Vercel) by enforcing strict naming conventions for components.
 
 ---
-
-## 👨‍💻 Author
-
-**Goutham A. S.** *IIT Jodhpur | Bash/CLI Developer Intern @ AfterQuery*
